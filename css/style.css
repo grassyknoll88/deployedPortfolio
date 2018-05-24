@@ -193,7 +193,7 @@ header:not(.header-mobile).autoshow.scrollOff {
 header div#logo {
 	display: inline-block;
 	height: 100%;
-	float: left;
+	float:left;
 	font-family: "Oswald", sans-serif;
 	font-size: 72px;
 	color: white;
@@ -708,9 +708,6 @@ section.no-bg, #content.no-bg{
 	overflow: hidden;
 }
 
-.section-icons {
-	margin-left: 150px;
-}
 
 /* ================================================== */
 
@@ -746,7 +743,7 @@ footer a:hover {
 .subfooter {
 	font-size:13px;
 	background:#555;
-	margin-top: 50px;
+	margin-top: 40px;
 	padding: 30px 0 20px 0;
 }
 .de-navbar-left .subfooter {
