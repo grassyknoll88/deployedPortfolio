@@ -981,6 +981,7 @@ header.header-light .logo-2{
 }
 
 
+
 /* ================================================== */
 
 
@@ -5851,7 +5852,7 @@ a.read_more i {
 	width: 100%;
 }
 .owl-custom-nav .btn-next, .owl-custom-nav .btn-prev {
-	opacity: 0;
+	opacity: 1;
 }
 .owl-custom-nav .btn-next {
 	right: -50px;
